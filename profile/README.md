@@ -3,4 +3,4 @@
 
 If you want to discuss any issues, please click [here](https://github.com/GME-Community/community/discussions)!
 
-Maybe you also want to visit our [official documentation on Tencent Cloud}(https://www.tencentcloud.com/document/product/607).
+Maybe you also want to visit our [official documentation on Tencent Cloud](https://www.tencentcloud.com/document/product/607).
